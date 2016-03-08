@@ -1,0 +1,23 @@
+{
+    "cat1": {
+        "Gender": ["Men's","Women's", "Boy's"]
+    },
+    "cat2": {
+        "Gender": ["Men's","Boy's"]
+    },
+    "cat3": {
+        "Gender": ["Men's","Women's"]
+    },
+    "cat4": {
+        "Material": ["Pashmina","Light Viscose","Heavy Viscose","Polyester","Cotton","Fur","Wool","Acrylic","Fleece"],
+        "Style": ["Oblong","Infinity","Neckerchief","Set"]	
+    },
+    "cat5": {
+        "Style": ["Trapper","Mohican","Ski Hats","Ski Mask","Set"]
+    },
+    "productColors": {
+        "PS1301": "51",
+        "BT1301": "43",
+        "PSS2501": "23"
+    }
+}
